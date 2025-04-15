@@ -1,13 +1,2 @@
------->Using express server —— server.js file
------->Uses ejs template engine
------->Instead of npm, YARN is used a sit is fast
------->Dependencies are required when running on production
------->DevDependencies are required while running on development machine or engine
------->"scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
-to automatically run command "dev" when we run "npm run dev" for local and "npm start" for production
-here I'm using yarn so the command will be "yarn dev" and "yarn start"
------->shift cmd . to make git repo visible in folder
+
 
